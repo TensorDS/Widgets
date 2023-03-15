@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Wiesenfeld"
+  given-names: "Daniel"
+  orcid: "https://orcid.org/0009-0003-5905-891X"
+title: "Tendor Data Scientists - Widgets"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2023-03-15
+url: "https://github.com/TensorDS/Widgets"
